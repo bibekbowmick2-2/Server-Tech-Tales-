@@ -42,6 +42,8 @@ async function run() {
 
     const reviewscollection = client.db("Bibek").collection("reviews");
     const watclistcollection = client.db("Bibek").collection("watchlist");
+
+    const blogCollection = client.db("Bibek").collection("blogs");
     
     
 
@@ -84,7 +86,7 @@ async function run() {
 
     app.get("/", async (req, res) => {
       
-      const result = await reviewscollection.find().limit(6).toArray();
+      const result = await blogCollection.find().limit(6).toArray();
       console.log(result);
       res.send(result);
      
