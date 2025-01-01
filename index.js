@@ -114,6 +114,18 @@ async function run() {
     });
 
 
+    app.delete("/watchlist1/:id", async (req, res) => {
+      
+      const id = req.params.id;
+      console.log(id);
+
+      const result = await watclistcollection.deleteOne({ _id: id });
+      res.send(result);
+    
+    
+    });
+
+
 
     app.put("/update-reviews/:id", async (req, res) => {
       
