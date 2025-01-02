@@ -51,13 +51,30 @@ async function run() {
     
 
 
+    app.get('/search', async (req, res) => {
+  const query = req.query.q; // Get the search query from the request
+
+  try {
+    const items = await blogCollection.find({
+  $or: [
+    // { title: { $regex: query, $options: 'i' } },
+    // { longDescription: { $regex: query, $options: 'i' } },
+    { category: { $regex: query, $options: 'i' } },
+  ],
+}).toArray();
+    res.send(items);
+  } catch (error) {
+    res.status(500).send({ error: error.message });
+  }
+});
 
 
 
-    app.post ("/reviews", async (req, res) => {
+
+    app.post ("/blogs", async (req, res) => {
       const data = req.body;
       console.log(data);
-      const result = await reviewscollection.insertOne(data);
+      const result = await blogCollection.insertOne(data);
       res.send(result);
 
     })
@@ -158,9 +175,17 @@ async function run() {
     });
 
 
-    app.get("/reviews", async (req, res) => {
+    // app.get("/reviews", async (req, res) => {
       
-      const result = await reviewscollection.find().toArray();
+    //   const result = await blogCollection.find().toArray();
+    //   res.send(result);
+     
+    // })
+
+
+    app.get("/blogs", async (req, res) => {
+      
+      const result = await blogCollection.find().toArray();
       res.send(result);
      
     })
