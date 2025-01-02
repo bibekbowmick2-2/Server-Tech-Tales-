@@ -155,19 +155,18 @@ async function run() {
     
       const updatedReview = {
         $set: {
-          name: reviewm.name,
+
           title: reviewm.title,
           email: reviewm.email,
-          thumbnail: reviewm.thumbnail,
-          rating: reviewm.rating,
-          publishing_year: reviewm.publishing_year,
-          description: reviewm.description,
-          genre: reviewm.genre
+          image: reviewm.image,
+          longDescription: reviewm.longdescription,
+          shortDescription: reviewm.shortdescription,
+          category: reviewm.genre
 
         },
       }
 
-      const result = await reviewscollection.updateOne(filter, updatedReview, options);
+      const result = await blogCollection.updateOne(filter, updatedReview, options);
       res.send(result);
 
     
