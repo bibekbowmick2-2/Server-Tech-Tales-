@@ -44,6 +44,7 @@ async function run() {
     const watclistcollection = client.db("Bibek").collection("watchlist");
 
     const blogCollection = client.db("Bibek").collection("blogs");
+    const commentCollection = client.db("Bibek").collection("comment");
     
     
 
@@ -77,6 +78,25 @@ async function run() {
       const result = await blogCollection.insertOne(data);
       res.send(result);
 
+    })
+
+    
+
+
+    app.post ("/comment", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await commentCollection.insertOne(data);
+      res.send(result);
+
+    })
+
+    app.get("/comment/:id", async (req, res) => {
+      
+      const id = req.params.id;
+      const result = await commentCollection.find({productId: id}).toArray();
+      res.send(result);
+     
     })
 
 
@@ -124,7 +144,7 @@ async function run() {
       
       const id = req.params.id;
 
-      const result = await reviewscollection.deleteOne({ _id: new ObjectId(id) });
+      const result = await blogCollection.deleteOne({ _id: new ObjectId(id) });
       res.send(result);
     
     
