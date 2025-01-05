@@ -3,7 +3,7 @@
 
 # Project Name: Tech-Tales: A Blog Application
 # Project Category: 05
-# Live Site Link: http://closed-brother.surge.sh/
+# Live Site Link: https://tech-tales2025.netlify.app/
 
 
 ### NPM Packages Used:
