@@ -84,7 +84,7 @@ async function run() {
     });
 
     app.get("/", async (req, res) => {
-      const result = await blogCollection.find().limit(6).toArray();
+       const result = await blogCollection.find().limit(6).toArray();
       console.log(result);
       res.send(result);
     });
