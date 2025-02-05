@@ -50,3 +50,18 @@
 ### Blog Website
 # Welcome to the Blog Website Development project! We're seeking a talented Front-End Developer to help bring our next-generation blog website to life. This exciting project will allow you to design and implement beautiful, responsive web pages, collaborating with designers and back-end developers. The project involves creating a dynamic, user-friendly experience for visitors, using modern technologies like React and Firebase.
 
+
+### Project UI:
+![Screenshot_75](https://github.com/user-attachments/assets/175cdf56-5430-4584-860d-b28e3d1f75fa)
+![Screenshot_76](https://github.com/user-attachments/assets/a836f6d9-dea6-47d1-bb64-965a593ac057)
+![Screenshot_77](https://github.com/user-attachments/assets/5084b957-f8cc-4f25-800d-14645e79d8ef)
+![Screenshot_78](https://github.com/user-attachments/assets/9e406ad3-f548-4339-8f0a-66e6346ea2dd)
+![Screenshot_79](https://github.com/user-attachments/assets/7ac885bd-1842-4922-bf72-c93816cc4b24)
+![Screenshot_80](https://github.com/user-attachments/assets/e7ae2bb6-5df0-45a0-bde8-82a0c2bf1046)
+![Screenshot_81](https://github.com/user-attachments/assets/0504a919-edc3-4bbf-b847-e5b7894b8d51)
+![Screenshot_82](https://github.com/user-attachments/assets/9d3ca692-d466-4e0a-8feb-cb836edcf7db)
+![Screenshot_83](https://github.com/user-attachments/assets/86fc7a58-2468-4b87-a533-66424211bba6)
+![Screenshot_84](https://github.com/user-attachments/assets/0e14017b-117c-4105-a72b-415dc6974015)
+![Screenshot_85](https://github.com/user-attachments/assets/91301102-2917-4cf7-8e40-d27ce2c961d3)
+![Screenshot_86](https://github.com/user-attachments/assets/5209c4f9-e046-406f-8bae-09cced7d5ed0)
+
