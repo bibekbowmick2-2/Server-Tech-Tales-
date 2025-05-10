@@ -6,6 +6,36 @@
 # Live Site Link: https://tech-tales2025.netlify.app/
 
 
+## 🛠 Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** Express.js (Node.js)
+- **Database:** MongoDB
+- **Styling:** Tailwind CSS
+
+---
+
+## 🚀 Setup Instructions
+
+1. Clone the project to your local computer:
+
+   ```bash
+   git clone https://github.com/bibekbowmick2-2/More-Beautiful-Client-Tech-Tales.git
+
+2.  ```bash
+    cd More-Beautiful-Client-Tech-Tales-main
+    
+3.   ```bash
+     npm install
+
+4.   ```bash
+     npm run dev
+    
+    
+
+
+
+
 ### NPM Packages Used:
 
   - "@tanstack/react-table"
@@ -31,7 +61,7 @@
 
 
 
-###  Key Features for project
+###  Features List for project
 
 
 - Blog Management: Users can add, view, and manage blogs through dedicated sections such as 'All Blogs' and 'Add Blogs'. This makes it easy for users to navigate through the content and contribute their own posts.
@@ -52,16 +82,13 @@
 
 
 ### Project UI:
-![Screenshot_75](https://github.com/user-attachments/assets/175cdf56-5430-4584-860d-b28e3d1f75fa)
-![Screenshot_76](https://github.com/user-attachments/assets/a836f6d9-dea6-47d1-bb64-965a593ac057)
-![Screenshot_77](https://github.com/user-attachments/assets/5084b957-f8cc-4f25-800d-14645e79d8ef)
-![Screenshot_78](https://github.com/user-attachments/assets/9e406ad3-f548-4339-8f0a-66e6346ea2dd)
-![Screenshot_79](https://github.com/user-attachments/assets/7ac885bd-1842-4922-bf72-c93816cc4b24)
-![Screenshot_80](https://github.com/user-attachments/assets/e7ae2bb6-5df0-45a0-bde8-82a0c2bf1046)
-![Screenshot_81](https://github.com/user-attachments/assets/0504a919-edc3-4bbf-b847-e5b7894b8d51)
-![Screenshot_82](https://github.com/user-attachments/assets/9d3ca692-d466-4e0a-8feb-cb836edcf7db)
-![Screenshot_83](https://github.com/user-attachments/assets/86fc7a58-2468-4b87-a533-66424211bba6)
-![Screenshot_84](https://github.com/user-attachments/assets/0e14017b-117c-4105-a72b-415dc6974015)
-![Screenshot_85](https://github.com/user-attachments/assets/91301102-2917-4cf7-8e40-d27ce2c961d3)
-![Screenshot_86](https://github.com/user-attachments/assets/5209c4f9-e046-406f-8bae-09cced7d5ed0)
+![Screenshot_11](https://github.com/user-attachments/assets/e1eb515a-22da-4fcd-aace-56cf6ed1c1e3)
+![Screenshot_12](https://github.com/user-attachments/assets/750807d0-7707-4106-9984-08b2c8f5a47b)
+![Screenshot_13](https://github.com/user-attachments/assets/dacb3eab-709c-4777-a803-e1c3bd83fca2)
+![Screenshot_14](https://github.com/user-attachments/assets/85dec7af-a26e-4c70-8d32-19a4108c5086)
+![Screenshot_15](https://github.com/user-attachments/assets/db858d45-f162-475e-9bf9-1f3ed5ebdda5)
+![Screenshot_16](https://github.com/user-attachments/assets/5ac6c4a8-d151-45f9-ba2c-0bb5a87738af)
+![Screenshot_17](https://github.com/user-attachments/assets/fdd7be52-7824-4b38-a39b-ad22cbe41725)
+![Screenshot_18](https://github.com/user-attachments/assets/59abb18c-2d65-44b0-a293-c092c27b9ba5)
+![Screenshot_19](https://github.com/user-attachments/assets/99c38393-4da8-437c-bee4-029c1763cded)
 
