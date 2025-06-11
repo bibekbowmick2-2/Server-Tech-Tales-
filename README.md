@@ -82,13 +82,18 @@
 
 
 ### Project UI:
-![Screenshot_11](https://github.com/user-attachments/assets/e1eb515a-22da-4fcd-aace-56cf6ed1c1e3)
+![Screenshot_14](https://github.com/user-attachments/assets/2ad95d0a-ca4f-409c-b508-93b8cbfe0e0f)
+
+![Screenshot_9](https://github.com/user-attachments/assets/5632efaf-a3a0-4f64-9cbd-a33604fc4ae6)
+![Screenshot_10](https://github.com/user-attachments/assets/209e87d1-31ce-4937-a901-b6a5acb2adfe)
+![Screenshot_11](https://github.com/user-attachments/assets/bc8315da-0d21-4ad6-881e-89dc8590bdc9)
+
 ![Screenshot_12](https://github.com/user-attachments/assets/750807d0-7707-4106-9984-08b2c8f5a47b)
-![Screenshot_13](https://github.com/user-attachments/assets/dacb3eab-709c-4777-a803-e1c3bd83fca2)
 ![Screenshot_14](https://github.com/user-attachments/assets/85dec7af-a26e-4c70-8d32-19a4108c5086)
 ![Screenshot_15](https://github.com/user-attachments/assets/db858d45-f162-475e-9bf9-1f3ed5ebdda5)
 ![Screenshot_16](https://github.com/user-attachments/assets/5ac6c4a8-d151-45f9-ba2c-0bb5a87738af)
-![Screenshot_17](https://github.com/user-attachments/assets/fdd7be52-7824-4b38-a39b-ad22cbe41725)
-![Screenshot_18](https://github.com/user-attachments/assets/59abb18c-2d65-44b0-a293-c092c27b9ba5)
+![Screenshot_12](https://github.com/user-attachments/assets/5c547274-5ed3-4274-8501-5b92fd24fe59)
+![Screenshot_13](https://github.com/user-attachments/assets/41b7a3d7-7213-48f9-9d8e-2d079a76e7d9)
+
 ![Screenshot_19](https://github.com/user-attachments/assets/99c38393-4da8-437c-bee4-029c1763cded)
 
